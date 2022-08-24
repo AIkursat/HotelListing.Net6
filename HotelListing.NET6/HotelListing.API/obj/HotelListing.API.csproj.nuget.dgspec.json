@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aynur\\source\\repos\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj": {}
+    "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aynur\\source\\repos\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj": {
+    "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
+        "projectUniqueName": "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
         "projectName": "HotelListing.API",
-        "projectPath": "C:\\Users\\aynur\\source\\repos\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
+        "projectPath": "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
         "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aynur\\source\\repos\\HotelListing.NET6\\HotelListing.API\\obj\\",
+        "outputPath": "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,32 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Expressions": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
