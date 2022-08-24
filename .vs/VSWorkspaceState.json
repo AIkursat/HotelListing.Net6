@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HotelListing.NET6",
+    "\\HotelListing.NET6\\HotelListing.API"
   ],
-  "SelectedNode": "\\HotelListing.NET6.sln",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
