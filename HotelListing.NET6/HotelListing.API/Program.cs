@@ -1,3 +1,4 @@
+using HotelListing.API.Configurations;
 using HotelListing.API.Data;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
@@ -18,11 +19,16 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => {
-    options.AddPolicy("AllowAlll", b => b.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod());
+    options.AddPolicy("AllowAlll", b =>
+    b.AllowAnyHeader()
+    .AllowAnyOrigin()
+    .AllowAnyMethod());
 
 });
 
 builder.Host.UseSerilog((ctx, lc) => lc.WriteTo.Console().ReadFrom.Configuration(ctx.Configuration)); // lc = logger configuration
+
+builder.Services.AddAutoMapper(typeof(MapperConfig));
 
 var app = builder.Build();
 
