@@ -3,8 +3,11 @@
     "",
     "\\HotelListing.NET6",
     "\\HotelListing.NET6\\HotelListing.API",
-    "\\HotelListing.NET6\\HotelListing.API\\Data"
+    "\\HotelListing.NET6\\HotelListing.API\\Controllers",
+    "\\HotelListing.NET6\\HotelListing.API\\Data",
+    "\\HotelListing.NET6\\HotelListing.API\\Models",
+    "\\HotelListing.NET6\\HotelListing.API\\Models\\Country"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Program.cs",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Controllers\\CountriesController.cs",
   "PreviewInSolutionExplorer": false
 }
