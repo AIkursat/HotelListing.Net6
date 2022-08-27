@@ -377,3 +377,13 @@ Name
 2022-08-27 14:11:21.615 +03:00 [INF] Application started. Press Ctrl+C to shut down.
 2022-08-27 14:11:21.617 +03:00 [INF] Hosting environment: Development
 2022-08-27 14:11:21.618 +03:00 [INF] Content root path: C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\
+2022-08-27 14:22:09.756 +03:00 [INF] Now listening on: https://localhost:7123
+2022-08-27 14:22:09.813 +03:00 [INF] Now listening on: http://localhost:5123
+2022-08-27 14:22:09.821 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-27 14:22:09.824 +03:00 [INF] Hosting environment: Development
+2022-08-27 14:22:09.825 +03:00 [INF] Content root path: C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\
+2022-08-27 14:35:07.272 +03:00 [INF] Now listening on: https://localhost:7123
+2022-08-27 14:35:07.316 +03:00 [INF] Now listening on: http://localhost:5123
+2022-08-27 14:35:07.321 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-27 14:35:07.322 +03:00 [INF] Hosting environment: Development
+2022-08-27 14:35:07.323 +03:00 [INF] Content root path: C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\
