@@ -3,11 +3,13 @@
     "",
     "\\HotelListing.NET6",
     "\\HotelListing.NET6\\HotelListing.API",
+    "\\HotelListing.NET6\\HotelListing.API\\Configurations",
     "\\HotelListing.NET6\\HotelListing.API\\Controllers",
     "\\HotelListing.NET6\\HotelListing.API\\Data",
     "\\HotelListing.NET6\\HotelListing.API\\Models",
-    "\\HotelListing.NET6\\HotelListing.API\\Models\\Country"
+    "\\HotelListing.NET6\\HotelListing.API\\Models\\Country",
+    "\\HotelListing.NET6\\HotelListing.API\\Repository"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Controllers\\CountriesController.cs",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Repository\\GenericRepository.cs",
   "PreviewInSolutionExplorer": false
 }

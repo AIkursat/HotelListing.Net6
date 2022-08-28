@@ -2,7 +2,7 @@
 
 namespace HotelListing.API.Contracts
 {
-    public interface ICountriesRepository<T> where T : IGenericRepository<Country>
+    public interface ICountriesRepository : IGenericRepository<Country>
     {
 
     }
