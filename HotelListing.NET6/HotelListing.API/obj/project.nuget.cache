@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oQ6wLbju3jv7jmba9vLN6XuSsB+KF78iXGMZMW5njA8bRqU4TJZpR5an0cyrjPdsVblahetFnTiPtX3kUsmeWg==",
+  "dgSpecHash": "euFgJq7/0UJ55t9fegXWKbw5yJVjLVGxPb7MBlwOWqotlG3YEmlqw6KmHj/LasL7cM38tuX5kHkOR/pU01aldg==",
   "success": true,
   "projectFilePath": "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,9 @@
     "C:\\Users\\aynur\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.build\\17.0.0\\microsoft.build.17.0.0.nupkg.sha512",
@@ -53,6 +56,8 @@
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.3\\microsoft.extensions.identity.core.6.0.3.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.3\\microsoft.extensions.identity.stores.6.0.3.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

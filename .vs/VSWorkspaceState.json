@@ -10,6 +10,6 @@
     "\\HotelListing.NET6\\HotelListing.API\\Models\\Country",
     "\\HotelListing.NET6\\HotelListing.API\\Repository"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Repository\\GenericRepository.cs",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Configurations\\MapperConfig.cs",
   "PreviewInSolutionExplorer": false
 }
