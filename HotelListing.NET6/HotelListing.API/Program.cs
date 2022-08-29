@@ -16,7 +16,7 @@ builder.Services.AddDbContext<HotelListingDbContext>(options =>
     options.UseSqlServer(connectionString);
 });
 
-builder.Services.AddIdentityCore<IdentityUser>()
+builder.Services.AddIdentityCore<ApiUser>()
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<HotelListingDbContext>();
 
