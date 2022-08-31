@@ -15,7 +15,7 @@ namespace HotelListing.API.Controllers
             this._authManager = authManager;
         }
 
-        // POST: api/account/register
+        // POST: api/Account/register
         [HttpPost]
         [Route("register")]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -23,13 +23,18 @@ namespace HotelListing.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult> Register([FromBody] ApiUserDto apiUserDto)
         {
-            var errors = _authManager.Register(apiUserDto);
+            var errors = await _authManager.Register(apiUserDto);
 
-            if(errors != null)
+            if (errors.Any())
             {
-                return BadRequest();
+                foreach (var error in errors)
+                {
+                    ModelState.AddModelError(error.Code, error.Description);
+                }
+                return BadRequest(ModelState);
             }
-            return Ok(apiUserDto);
+
+            return Ok();
         }
 
         // POST: api/account/login
