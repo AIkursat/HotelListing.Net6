@@ -10,6 +10,6 @@
     "\\HotelListing.NET6\\HotelListing.API\\Models\\Country",
     "\\HotelListing.NET6\\HotelListing.API\\Repository"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Controllers\\CountriesController.cs",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Repository\\AuthManager.cs",
   "PreviewInSolutionExplorer": false
 }
