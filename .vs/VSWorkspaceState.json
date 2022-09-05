@@ -11,6 +11,6 @@
     "\\HotelListing.NET6\\HotelListing.API\\Models\\Country",
     "\\HotelListing.NET6\\HotelListing.API\\Repository"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Middleware\\ExceptionMiddleware.cs",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
