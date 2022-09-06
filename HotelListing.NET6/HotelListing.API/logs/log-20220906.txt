@@ -1,0 +1,10 @@
+2022-09-06 14:49:27.982 +03:00 [INF] Now listening on: https://localhost:7123
+2022-09-06 14:49:28.031 +03:00 [INF] Now listening on: http://localhost:5123
+2022-09-06 14:49:28.068 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 14:49:28.069 +03:00 [INF] Hosting environment: Development
+2022-09-06 14:49:28.070 +03:00 [INF] Content root path: C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\
+2022-09-06 14:55:31.298 +03:00 [INF] Now listening on: https://localhost:7123
+2022-09-06 14:55:31.376 +03:00 [INF] Now listening on: http://localhost:5123
+2022-09-06 14:55:31.392 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 14:55:31.394 +03:00 [INF] Hosting environment: Development
+2022-09-06 14:55:31.399 +03:00 [INF] Content root path: C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\
