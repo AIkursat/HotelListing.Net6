@@ -3,14 +3,9 @@
     "",
     "\\HotelListing.NET6",
     "\\HotelListing.NET6\\HotelListing.API",
-    "\\HotelListing.NET6\\HotelListing.API\\Configurations",
-    "\\HotelListing.NET6\\HotelListing.API\\Controllers",
-    "\\HotelListing.NET6\\HotelListing.API\\Data",
-    "\\HotelListing.NET6\\HotelListing.API\\Middleware",
-    "\\HotelListing.NET6\\HotelListing.API\\Models",
-    "\\HotelListing.NET6\\HotelListing.API\\Models\\Country",
-    "\\HotelListing.NET6\\HotelListing.API\\Repository"
+    "\\HotelListing.NET6\\HotelListing.API.Core",
+    "\\HotelListing.NET6\\HotelListing.API\\Controllers"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.NET6.sln",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API.Core\\HotelListing.API.Core.csproj",
   "PreviewInSolutionExplorer": false
 }

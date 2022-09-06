@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JU64vNEGg5rZk1z0cKFG9Z93PBKojN3zhyshiOFzzlOHP63slFzYUSiIOiU7yliOjSGVIp87dfiF9JuhPgjinQ==",
+  "dgSpecHash": "x8GimJQTXwmqeFfrNc3KEs1ofwxrSmdP93Kez0/IiSonKHchryd7QhYdsi6iTMk5j0dpxmLB8YnyrIL8+iYYcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aynur\\OneDrive\\Belgeler\\GitHub\\HotelListing.Net6\\HotelListing.NET6\\HotelListing.API\\HotelListing.API.csproj",
   "expectedPackageFiles": [
@@ -52,7 +52,7 @@
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.0.0\\microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
