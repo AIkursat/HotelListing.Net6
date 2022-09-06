@@ -10,7 +10,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "51936e6e-eaa5-44fe-9343-f7fec6e33dd0": {
+      "ProjectGuid": "51936e6e-eaa5-44fe-9343-f7fec6e33dd0",
+      "DisplayName": "HotelListing.API.Data",
+      "ColorIndex": 1
+    },
+    "26acbf22-1d90-4c88-a4f5-9ebfddc39916": {
+      "ProjectGuid": "26acbf22-1d90-4c88-a4f5-9ebfddc39916",
+      "DisplayName": "HotelListing.API.Data",
+      "ColorIndex": 2
+    },
+    "0b2bc3cb-5d89-4650-86b7-c620bf0272ab": {
+      "ProjectGuid": "0b2bc3cb-5d89-4650-86b7-c620bf0272ab",
+      "DisplayName": "HotelListing.API.Core",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

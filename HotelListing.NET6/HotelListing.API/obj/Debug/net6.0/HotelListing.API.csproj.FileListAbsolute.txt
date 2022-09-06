@@ -287,3 +287,7 @@ C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\Hote
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\Microsoft.OData.Edm.dll
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Core.dll
+C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Data.dll
+C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Core.pdb
+C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Data.pdb
