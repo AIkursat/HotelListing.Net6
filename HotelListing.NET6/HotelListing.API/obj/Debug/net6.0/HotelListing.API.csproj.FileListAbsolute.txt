@@ -291,3 +291,4 @@ C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\Hote
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Data.dll
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Core.pdb
 C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\HotelListing.API.Data.pdb
+C:\Users\aynur\OneDrive\Belgeler\GitHub\HotelListing.Net6\HotelListing.NET6\HotelListing.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
