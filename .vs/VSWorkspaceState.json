@@ -4,8 +4,9 @@
     "\\HotelListing.NET6",
     "\\HotelListing.NET6\\HotelListing.API",
     "\\HotelListing.NET6\\HotelListing.API.Core",
+    "\\HotelListing.NET6\\HotelListing.API.Data",
     "\\HotelListing.NET6\\HotelListing.API\\Controllers"
   ],
-  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API.Core\\HotelListing.API.Core.csproj",
+  "SelectedNode": "\\HotelListing.NET6\\HotelListing.API.Data\\HotelListingDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
